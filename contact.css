@@ -1,0 +1,13 @@
+.menu {
+    display: flex;
+    list-style: none;
+  }
+
+.menu li{
+  margin-right: 20px;
+}
+
+body {
+  color: yellow;
+  background-color: black;
+} 
